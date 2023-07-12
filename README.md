@@ -8,18 +8,9 @@ API cuaca yang digunakan berasal dari [Cuaca Gempa REST API](https://github.com/
 
 Berikut adalah fitur aplikasi ini:
 
-1. Menampilkan informasi cuaca suatu provinsi atau kota di Indonesia.
+1. Menampilkan informasi cuaca dan gempa suatu provinsi atau kota di Indonesia.
 
 ### Demo
 
 Berikut adalah demo dari aplikasi ini:
 
-![assets](assets/1.png) <br>
-
-![assets](assets/2.png)
-<br>
-![assets](assets/3.png)
-<br>
-![assets](assets/4.png)
-<br>
-![assets](assets/5.png)
