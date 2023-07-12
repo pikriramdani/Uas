@@ -1,6 +1,6 @@
 # Info BMKG
 
-Aplikasi untuk menampilkan informasi mengenai cuaca dan gempa yang berasal dari website [Data Terbuka BMKG](https://data.bmkg.go.id/). 
+Aplikasi ini untuk menampilkan  sebuah informasi mengenai cuaca dan gempa yang berasal dari website [Data Terbuka BMKG](https://data.bmkg.go.id/). 
 
 
 ## Aplikasi ini dibuat dengan menggunakan Flutter.
