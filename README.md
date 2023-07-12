@@ -1,20 +1,20 @@
 # Info BMKG
 
-Aplikasi untuk menampilkan informasi mengenai cuaca dan gempa yang berasal dari website [Data Terbuka BMKG](https://data.bmkg.go.id/). Aplikasi ini dibuat dengan menggunakan Flutter.
+Aplikasi untuk menampilkan informasi mengenai cuaca dan gempa yang berasal dari website [Data Terbuka BMKG](https://data.bmkg.go.id/). 
 
-API cuaca yang digunakan berasal dari [Cuaca Gempa REST API](https://github.com/renomureza/cuaca-gempa-rest-api) karena sudah dalam bentuk JSON.
 
-## Fitur
+## Aplikasi ini dibuat dengan menggunakan Flutter.
 
-Berikut adalah fitur aplikasi ini:
+![img](assets/delon1.jpeg)
 
-1. Menampilkan informasi cuaca dan gempa suatu provinsi atau kota di Indonesia.
+
+## Fitur Menampilkan informasi cuaca dan gempa suatu provinsi atau kota di Indonesia.
 
 ### Demo
 
 Berikut adalah demo dari aplikasi ini:
 
 ![img](assets/punyadelon.png)
-![img](assets/delon1.jpeg)
+
 ![img](assets/delon2.jpeg)
 ![img](assets/delon3.png)
