@@ -14,3 +14,7 @@ Berikut adalah fitur aplikasi ini:
 
 Berikut adalah demo dari aplikasi ini:
 
+![img](assets/punyadelon.png)
+![img](assets/delon1.jpeg)
+![img](assets/delon2.jpeg)
+![img](assets/delon3.png)
