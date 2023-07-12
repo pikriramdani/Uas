@@ -10,6 +10,12 @@ Aplikasi untuk menampilkan informasi mengenai cuaca dan gempa yang berasal dari 
 ## Fitur Menampilkan informasi cuaca dan gempa suatu provinsi atau kota di Indonesia.
 
 ![img](assets/punyadelon.png)
+<br>
+
 ![img](assets/delon1.jpeg)
+<br>
+
 ![img](assets/delon2.jpeg)
+<br>
+
 ![img](assets/delon3.png)
